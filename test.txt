@@ -1,1 +1,2 @@
 trying to commit changes directly on main
+trying to commit after protection rules enabled.
